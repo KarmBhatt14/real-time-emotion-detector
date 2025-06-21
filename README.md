@@ -13,7 +13,4 @@ This is an **end-to-end facial emotion detection system** with both frontend and
 
 ---
 
-## 📦 Requirements
-Install the dependencies:
-```bash
-pip install -r requirements.txt
+
